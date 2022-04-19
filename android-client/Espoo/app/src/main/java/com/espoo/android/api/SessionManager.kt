@@ -3,6 +3,7 @@ package com.espoo.android.api
 import android.content.Context
 import android.content.Context.MODE_PRIVATE
 import android.content.SharedPreferences
+import com.espoo.android.model.User
 import dagger.hilt.android.qualifiers.ApplicationContext
 import javax.inject.Inject
 import javax.inject.Singleton
@@ -49,6 +50,12 @@ class SessionManager
 
     internal fun readAPIToken(): String? {
         return preferences.getString(PreferencesConstants.API_TOKEN, "")
+    }
+
+    internal fun storeLoginData(user: User) {
+        storeData(PreferencesConstants.USER_ID, user.id)
+        storeData(PreferencesConstants.EMAIL, user.email)
+        storeData(PreferencesConstants.IS_LOGIN, true)
     }
 
     internal fun logout() {

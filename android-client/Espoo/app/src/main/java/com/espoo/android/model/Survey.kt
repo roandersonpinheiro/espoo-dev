@@ -3,7 +3,7 @@ package com.espoo.android.model
 import com.google.gson.annotations.SerializedName
 
 data class Survey(var id: Int, @SerializedName("survey_subject_id") var surveySubjectId: Int,
-                  var name: String, var description: String, @SerializedName("role_type") var roleType: String,
+                  var name: String, var description: String,
                   @SerializedName("current_answers_survey") var currentAnswersSurvey: SimpleAnswersSurvey,
                   @SerializedName("answers_surveys") var answersSurvey: Array<SimpleAnswersSurvey>, var questions: Array<Question>)
 

@@ -14,6 +14,7 @@ class SurveysFragmentViewModel
 constructor(private val repository: SurveysRepository) : ViewModel() {
     val errorMessage = MutableLiveData<String>()
     val surveyList = MutableLiveData<List<Survey>>()
+    val loading = MutableLiveData<Boolean>()
     private var job: Job? = null
 
     init {
@@ -22,7 +23,7 @@ constructor(private val repository: SurveysRepository) : ViewModel() {
     private val exceptionHandler = CoroutineExceptionHandler { _, throwable ->
         onError("Exception handled: ${throwable.localizedMessage}")
     }
-    val loading = MutableLiveData<Boolean>()
+
 
     fun getAllSurveys() {
         job = CoroutineScope(Dispatchers.IO).launch {
