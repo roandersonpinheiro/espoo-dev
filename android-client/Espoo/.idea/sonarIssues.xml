@@ -8,6 +8,126 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../cats-app/catsApp/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../cats-app/catsApp/app/src/main/java/com/example/catsapp/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../cats-app/catsApp/app/src/main/java/com/example/catsapp/api/ApiService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../cats-app/catsApp/app/src/main/java/com/example/catsapp/helper/Connection.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../cats-app/catsApp/app/src/main/java/com/example/catsapp/helper/MyApplication.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../cats-app/catsApp/app/src/main/java/com/example/catsapp/repository/CatsRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../cats-app/catsApp/app/src/main/java/com/example/catsapp/view/BindingUtils.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../cats-app/catsApp/app/src/main/java/com/example/catsapp/view/cats/CatsFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../cats-app/catsApp/app/src/main/java/com/example/catsapp/view/cats/CatsFragmentViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../cats-app/catsApp/app/src/main/java/com/example/catsapp/view/cats/adapter/CatsAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../cats-app/catsApp/app/src/main/res/layout/cats_item_view.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../cats-app/catsApp/app/src/main/res/layout/fragment_cats.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../cats-app/catsApp/app/src/main/res/menu/main_menu.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../cats-app/catsApp/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../cats-app/catsApp/app/src/main/resources/cats/failed_response.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../cats-app/catsApp/app/src/main/resources/cats/failed_response_403.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../cats-app/catsApp/app/src/main/resources/cats/failed_response_404.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../cats-app/catsApp/app/src/main/resources/cats/success_response.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../cats-app/catsApp/app/src/main/resources/cats/success_response_word_not_found.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../cats-app/catsApp/app/src/test/java/com/example/catsapp/MockResponseFileReader.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../cats-app/catsApp/app/src/test/java/com/example/catsapp/api/ApiCatsTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../cats-app/catsApp/app/src/test/java/com/example/catsapp/api/ApiServiceEndpointTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../cats-app/catsApp/app/src/test/java/com/example/catsapp/api/ApiServiceTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../cats-app/catsApp/app/src/test/java/com/example/catsapp/api/ApiSurveysTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/build.gradle">
           <value>
             <set />
@@ -189,6 +309,236 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/jacoco.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../estudos/tete/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../estudos/tete/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../estudos/tete/app/src/main/java/com/example/catsapp/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../estudos/tete/app/src/main/java/com/example/catsapp/helper/Constants.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../estudos/tete/app/src/main/java/com/example/catsapp/view/cats/CatsFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../estudos/tete/app/src/main/java/com/example/catsapp/view/cats/CatsFragmentViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../estudos/tete/app/src/main/java/com/example/catsapp/view/main/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../estudos/tete/app/src/main/java/com/example/catsapp/view/surveys/SurveysFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../estudos/tete/app/src/main/res/layout/cats_item_view.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../estudos/tete/app/src/main/res/layout/fragment_cats.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../estudos/tete/app/src/main/res/layout/survey_item_view.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../estudos/tete/app/src/main/res/navigation/navigation.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../estudos/tete/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/app/build/generated/hilt/component_sources/debug/com/example/igmurcatsapp/Hilt_MyApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/app/build/generated/hilt/component_sources/debug/com/example/igmurcatsapp/MyApplication_HiltComponents.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/app/build/generated/hilt/component_sources/debug/com/example/igmurcatsapp/helper/MyApplication_HiltComponents.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/app/build/generated/source/kapt/debug/com/example/igmurcatsapp/databinding/FragmentCatsBindingImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/app/build/tmp/kapt3/stubs/debug/com/espoo/android/view/adapter/CatsDiffCallback.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/app/src/main/java/com/example/igmurcatsapp/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/app/src/main/java/com/example/igmurcatsapp/MyApplication.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/app/src/main/java/com/example/igmurcatsapp/api/ApiService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/app/src/main/java/com/example/igmurcatsapp/api/AuthInterceptor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/app/src/main/java/com/example/igmurcatsapp/di/NetworkingModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/app/src/main/java/com/example/igmurcatsapp/helper/Constants.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/app/src/main/java/com/example/igmurcatsapp/helper/MyApplication.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/app/src/main/java/com/example/igmurcatsapp/model/GalleryResult.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/app/src/main/java/com/example/igmurcatsapp/model/GallerySearchResult.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/app/src/main/java/com/example/igmurcatsapp/model/Image.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/app/src/main/java/com/example/igmurcatsapp/repository/CatsRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/app/src/main/java/com/example/igmurcatsapp/repository/SurveysRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/app/src/main/java/com/example/igmurcatsapp/view/adapter/CatsAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/app/src/main/java/com/example/igmurcatsapp/view/cats/CatsFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/app/src/main/java/com/example/igmurcatsapp/view/cats/CatsFragmentViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/app/src/main/java/com/example/igmurcatsapp/view/surveys/CatsFragmentViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/app/src/main/java/com/example/igmurcatsapp/view/surveys/SurveysFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/app/src/main/res/layout/cats_item_view.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/app/src/main/res/layout/fragment_cats.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/app/src/main/res/navigation/navigation.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../igmur-cats-app/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/ImgurLink-master/app/src/main/java/com/akshit/imgurlink/activities/SearchActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/ImgurLink-master/app/src/main/java/com/akshit/imgurlink/adapters/ImageGridAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/ImgurLink-master/app/src/main/java/com/akshit/imgurlink/apiHelpers/ApiClient.kt">
           <value>
             <set />
           </value>
